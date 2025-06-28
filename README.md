@@ -17,7 +17,7 @@ moodle.zip
 - ├── moodle/ # Moodle website folder (code, config, themes, plugins)
 - └── rds_moodle_backup.sql # Moodle MySQL database export (from AWS RDS)
 
---
+---
 ## 🧱 AWS Services Used
 
 | Category           | AWS Services                                           |
