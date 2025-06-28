@@ -4,7 +4,7 @@ A scalable, secure, and high-availability **cloud architecture** hosted on **AWS
 ---
 
 ## 📦 Project Deliverables
-- 📦 `moodle.zip` — Moodle deployment package
+- 📦 [`moodle.zip`](https://github.com/QiYang102/ULearnly-AWS-Cloud-Based-Online-Learning-Platform/releases/latest) — Moodle deployment package (download from GitHub Release)
 - 📄 `G10_AWS_Architecture_Report.docx` — Full technical documentation
 - 🖼️ `solution-architecture.png` — Final AWS infrastructure diagram
 
