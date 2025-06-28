@@ -43,7 +43,7 @@ The project hosts a Moodle-based online learning platform. It features:
 - **Auto Scaling Group** for high availability
 - **Custom VPC** with public/private subnets and NAT Gateway
 
-![Architecture Diagram](screenshots/solution-architecture.png)
+![Architecture Diagram](solution-architecture.png)
 
 ---
 
